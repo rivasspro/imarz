@@ -8,7 +8,7 @@ include('encabezados.php');
     <div class="container">
         <div class="row">
             <div class="col">
-                <h4>Aviso de privacidad</h4>
+                <h4>Aviso de privacidad.</h4>
                 <h4>MIGUEL ANGEL RIVERA ZAVALA, en lo subsecuente iMARZ, con domicilio en Chilpancingo No. 59 Mezzanine 2, Col. Hipódromo, Alcaldía Cuahutémoc, Cidudad de México, C.P. 06100 , es responsable del tratamiento de sus datos personales.</h4>
 
                 <h5>
